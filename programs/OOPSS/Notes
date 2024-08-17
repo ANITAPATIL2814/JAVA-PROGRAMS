@@ -1,0 +1,15 @@
+4 pillers
+1.inheritance : relation between two entity can be direct/indirect
+is relation(inheritance)-- extending
+types :single,multilevel,hierarchical,multiple
+has a relation(aggregation)
+------------------------
+2.polymorphism :many forms 
+overriding : same method name, same datatype or no of paramter using inheritance
+overloading: same method name, differenece - datatype or no of parameters
+
+----------------
+3.abstraction : show imp & hide internal mech
+4.Encapsulation : to safe/give protection/ wrapping
+
+super: refer parent class property, contructor, method in child class
