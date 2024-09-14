@@ -3,7 +3,6 @@ package DSA;
 import java.util.*;
 //subclass : student
 public class ArrayList1 {
-
 	public static void main(String[] args) {
 	Student s1=new Student(1,"anita",9.9f);
 	Student s2=new Student(2,"vasu",9.7f);
