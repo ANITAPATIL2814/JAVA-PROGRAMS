@@ -6,10 +6,29 @@ has a relation(aggregation)
 ------------------------
 2.polymorphism :many forms 
 overriding : same method name, same datatype or no of paramter using inheritance
+
 overloading: same method name, differenece - datatype or no of parameters
 
 ----------------
-3.abstraction : show imp & hide internal mech
-4.Encapsulation : to safe/give protection/ wrapping
+3.abstraction : show imp & hide  complex details
+Ex: You can start a car by turning the key or pressing the start button. 
+	You don't need to know how the engine is getting started, what all components your car has. 
+	The car internal implementation and complex logic is completely hidden from the user
+---------------------------------
+4.Encapsulation : to safe/give protection/wrapping up of code and data under a single unit
+Ex :capsule. This capsule mixes few types of medicines and stored in one capsule.
 
+--------------------------------------
 super: refer parent class property, contructor, method in child class
+Ex :Parent class: Vehicle
+	Child class: Car
+	Child class access certain properties and behaviors of Parent class
+----------------------------
+this keyword :this is a reference variable that refers to the current object. 
+ex :Imagine a classroom where a teacher calls out a student's name. 
+	If multiple students have the same name (e.g., anita), 
+	it's important for each anita to identify himself as this anita to avoid confusion.
+-----------------------
+final keyword :A final variable cannot be modified once it has been initialized.
+ex: Imagine a school where a student's roll number is assigned once 
+	and never changes during their time at the school.
